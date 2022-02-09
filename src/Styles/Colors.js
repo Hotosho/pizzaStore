@@ -1,0 +1,1 @@
+export const pizzaRed = "#753c39";
